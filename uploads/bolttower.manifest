@@ -1,0 +1,79 @@
+ManifestFileVersion: 0
+CRC: 2985057385
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f3be49b4246e50bb7f2dcaa34cda967e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c3ffd035f7c4c9a9146bba9000cce4c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b2d90753913d7c8409348928c1a3d99c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2bb36cbf7965ec3408f1d7a08c8bd3b8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bc6729cab0112475692124671ab92b3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a1dec644c20bb448181ac67e942f2cf7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2d6802e2c10ab5946887cbfe7d01f779, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ecdc72046e7ba4149885837f0f6554c0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aa584fbee541324448dd18d8409c7a41, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4c5036cffb5524767af470ccf6ce7e76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ceb121cd84751254680a43a751247d0d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: CardType
+Assets:
+- Assets/Scriptable Objects/CardBundleData/bolttower.asset
+Dependencies: []

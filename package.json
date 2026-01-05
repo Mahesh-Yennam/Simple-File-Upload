@@ -1,0 +1,18 @@
+{
+  "name": "file-and-images-upload",
+  "version": "1.0.0",
+  "description": "a simple file and image upload using nodejs and expressjs",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "serve": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Mahesh Yennam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "multer": "^2.0.2"
+  }
+}
