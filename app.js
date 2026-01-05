@@ -28,7 +28,7 @@ app.get("/", (req, res) => {
 // Define a route to handle file uploads
 app.post("/upload", upload.single("file"), (req, res) => {
   // File has been uploaded successfully
-  res.sendFile(__dirname + "/submited.html");
+  res.sendFile(__dirname + "/submitted.html");
 });
 
 app.listen(3000, () => {
